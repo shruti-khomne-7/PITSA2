@@ -1,0 +1,174 @@
+/* Desktop Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    overflow-x: hidden;
+  }
+.desktop1 {
+    width:100%;
+    height:675px;
+    position: relative;
+    background-color: #272d27 ;
+}
+  
+ 
+  
+  /* Navigation Links */
+  .home, .about, .contact-us, .more {
+    position: absolute;
+    color: rgb(226, 226, 226);
+    font-size: 16px;
+    font-family: Barlow, sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .home {
+    width: 158px;
+    height: 35px;
+    left: 715px;
+    top: 36px;
+  }
+  
+  .about {
+    width: 154px;
+    height: 35px;
+    left: 860px;/*824*/
+    top: 36px;
+  }
+  
+  .contact-us {
+    width: 146px;
+    height: 35px;
+    left: 1010px;
+    top: 36px;
+  }
+  
+  .more {
+    width: 134px;
+    height: 35px;
+    left: 1210px;
+    top: 36px;
+  }
+  
+ 
+  .rectangle2 {
+    width: 2006px;
+    height: 18.2px;
+    position: absolute;
+    left: 374px;
+    top: 11px;
+    background: #914E4E;
+  }
+  
+  /* Tagline */
+  .tagline {
+    width: 720px;
+    height: 23.5px;
+    position: absolute;
+    left: 775px;
+    top: 13px;
+    color: #CDCF93;
+    font-size: 12px;
+    font-family: Kelly Slab, sans-serif;
+    font-weight: 100;
+    letter-spacing: 0.6px;
+    word-wrap: break-word;
+  }
+  
+  /* Group 1 */
+  .title {
+    width: 672.14px;
+    height: 386.34px;
+    position: absolute;
+    left: 956px;
+    top: 232.5px;
+  }
+  
+  .pitsa {
+    width: 408px;
+    height: 160px;
+    position: absolute;
+    left: -60px;
+    top: -100px;
+    opacity: 0.34;
+    color: #789673;
+    font-size: 50px;
+    font-family: Notable, sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .pizza {
+    width: 687.64px;
+    height: 50px;
+    position: absolute;
+    left: -29px;
+    top: -80px;
+    color: #976464;
+    font-size: 35px;
+    font-family: Charmonman, serif;
+    font-weight: 500;
+    letter-spacing: 9px;
+    word-wrap: break-word;
+  }
+  
+  /* Image */
+  .image1 {
+    width: 600px;
+    height: 675px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+
+.container {
+  width: 962px;
+  height: 190px;
+  position: relative;
+}
+
+
+.image-left {
+  width: 312px;
+  height: 200px;
+  position: absolute;
+  left: 673px;
+  top: 330px;
+}
+
+.image-right {
+  width: 311.5px;
+  height: 200px;
+  position: absolute;
+  left: 990px;
+  top: 330px;
+}
+
+.overlay {
+  width: 629px;
+  height: 30px;
+  position:relative;
+  left: 673px;
+  top: 530px;
+  background:#914E4E;
+  
+}
+
+.divider {
+ width:5.2px;
+  height: 235px;
+  position: absolute;
+  left: 985px;
+  top: 329px;
+  border: 5px;
+  background-color:#272d27;
+}
+
+
+
+  
